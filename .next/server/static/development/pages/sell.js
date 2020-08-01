@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 4);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -107,7 +107,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "next/link");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
 var _this = undefined,
-    _jsxFileName = "/Users/mmg/04 REPOS/react-graphql-online-store/pages/sell.js";
+    _jsxFileName = "/Users/mmg/04 REPOS/Advanced-React/sick-fits/frontend/pages/sell.js";
 
 
 
@@ -134,7 +134,7 @@ var Sell = function Sell(props) {
 
 /***/ }),
 
-/***/ 4:
+/***/ 3:
 /*!*****************************!*\
   !*** multi ./pages/sell.js ***!
   \*****************************/
